@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic website with just plain HTML. The idea is to build a simple website for food recipes, which later on will be stylized by using CSS.This is a way to put my skills to a test.
